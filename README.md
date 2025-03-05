@@ -15,8 +15,7 @@ This project provides an in-depth **analysis of bank loan applications** using *
 🔹 Visualization using charts & dashboards  
 
 ## How to Use
-1. Open `Loan_Analysis_Dashboard.xlsx` to explore the visual insights.  
-2. Refer to `Bank_Loan_Analysis_Report.pdf` for detailed findings.  
+1. Open `Loan_Analysis_Dashboard.xlsx` to explore the visual insights.   
 
-📌 **Author:** [Your Name]  
-🔗 **LinkedIn:** [Your Profile]  
+📌 **Author:** Janavi Singh 
+🔗 **LinkedIn:** [(https://www.linkedin.com/in/janavi-singh-554800252/)]  
